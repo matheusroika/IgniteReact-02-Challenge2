@@ -1,4 +1,4 @@
-# IgniteReact-02-Challenge2
+# Desafio: Refactoring de classes e TypeScript
 Desafio 2 do 2º capítulo da trilha de React do Ignite da Rocketseat
 
 ### Objetivo
